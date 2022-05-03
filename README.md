@@ -1,7 +1,7 @@
 # Interbedding_Dataset
 
-- This is a synthetic training dataset that can be used to train a U-net CNN model for mapping litho-facies from seismic data.
-- This dataset contains 5000 patches of geological images and 5000 patches of seismic images, each has 256*256 pixels.
+This is a synthetic training dataset that can be used to train a U-net CNN model for mapping litho-facies from seismic data.
+This dataset contains 5000 patches of geological images and 5000 patches of seismic images, each has 256*256 pixels.
 
 
 Please unzip masks.zip for 5000 patches of 2D geological models of interbedded chalk and flint layers.
