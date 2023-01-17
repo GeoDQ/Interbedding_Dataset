@@ -10,8 +10,8 @@ https://drive.google.com/drive/folders/1ZVwpLZgx2aB40wXahN0uvQr6vJ3OSSiS?usp=sha
 
 ## Publication
 Please refer to the following publication for more information of the dataset and its application. 
-##### Qu, D., K. Mosegaard, R. Feng, and L. Nielsen, 2022, Using synthetic data trained convolutional neural network for predicting sub-resolution thin layers from seismic, EarthArxiv.
-https://eartharxiv.org/repository/view/3351/
+##### Qu, D., K. Mosegaard, R. Feng, and L. Nielsen, Using synthetic data trained convolutional neural network for predicting sub-resolution thin layers from seismic, Interpretation, accepted.
+Preprint: https://eartharxiv.org/repository/view/3351/
 
 
 ## License
